@@ -3,7 +3,7 @@ title: Haynes Effects | Positional guitar pedals
 subtitle: 2020
 email: effects@johnhayn.es
 description:  Positional guitar pedals
-baseurl: "/hayneseffects" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: hayneseffects.com # the base hostname & protocol for your site
 author:
 street_address: 
