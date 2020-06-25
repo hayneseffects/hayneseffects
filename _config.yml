@@ -15,7 +15,7 @@ phone:
 permalink: /:title/
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 4
 
 # social settings
@@ -24,7 +24,7 @@ facebook_url:
 github_url:
 gitlab_url: 
 googleplus_url: 
-instagram_url: /hayneseffects
+instagram_url: 
 linkedin_url: 
 pinterest_url:
 slack_url:
