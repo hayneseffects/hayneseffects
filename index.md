@@ -13,7 +13,7 @@ show_tile: false
         </div>
         <div class="12u 12u$(small)" style="padding: 4em">
             <h1>About Haynes Effects</h1>
-            <p>I build versatile pedals designed for guitarists like me, who need to get a large number of tones from a meager travell rig. I hand-build each pedal from my workshop in the South of England.</p>
+            <p>I build versatile pedals designed for guitarists like me, who need to get big tones from a meager travel rig. I hand-build each pedal from my workshop in the South of England.</p>
         </div>
         {% include tiles.html %}
     </section>
