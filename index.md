@@ -12,7 +12,7 @@ show_tile: false
             <h1>New Pedal launching July 2020</h1>
         </div>
         <div class="12u 12u$(small)" style="padding: 4em">
-            <h1>About Haynes Effects</h1>
+            <h3>About Haynes Effects</h3>
             <p>I build versatile pedals designed for guitarists like me, who need to get big tones from a meager travel rig. I hand-build each pedal from my workshop in the South of England.</p>
         </div>
         {% include tiles.html %}
