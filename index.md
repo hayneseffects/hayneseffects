@@ -17,7 +17,7 @@ show_tile: false
                 <h2 style="margin-bottom:0px;">69.00 GBP</h2>
                 <h5>Free Shipping to UK and Europe</h5>
                 <p style="margin-top:2em;">The most versatile boost circuit on the market. The Positional Boost was designed for guitarists that want to get the most from their pedal board, by changing which pedals are boosted with the tap of a footswitch.</p>
-                <p><strong>Limited edition run of Gold Sparkle casings - last few remaining.</strong></p>
+                <h5>Limited edition Gold Sparkle - 3 remaining.</h5>
                 <ul class="actions">
                     <li><a href="https://reverb.com/uk/shop/johns-gear-depot-2277" class="button special" style="background: #f6870f"><i class="fa fa-shopping-cart" aria-hidden="true"></i>&nbsp;&nbsp;Order via Reverb</a></li>
                 </ul>
@@ -28,7 +28,7 @@ show_tile: false
 <div id="main">
     <div class="inner">
         <section class="row 100% uniform">
-            <div class="12u 12u$(small)">
+            <div class="8u 12u$(small)">
                 <h2>Detailed Specs</h2>
                 <p>The unique design fits into a compact gold-sparkle case, based on the Hammond 1590b design, making it perfect for pedal boards of all shapes and sizes.</p>
             </div>
