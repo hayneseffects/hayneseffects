@@ -43,7 +43,7 @@ show_tile: false
                 <h2>The Boost</h2>
                 <p>The MOSFET boost circuit is loosely based on the ZVEX Super Hard On, an ultra-transparent boost that goes from clean to crunch in just a crackle. An LED indicates whether the boost is engaged.</p>
             </div>
-            <div class="12u 12u$(small)" style="background:#000a12;">
+            <div class="12u 12u$(small)" style="margin-top:2em ;background:#000a12;">
                 <p>PEDAL IMAGE</p>
             </div>
             <!-- {% include tiles.html %} -->
