@@ -6,8 +6,8 @@ author: null
 show_tile: false
 ---
 
-<div class="inner">
-    <div class="inner">
+<div id="main">
+    <div class="inner" style="padding-top:2em;">
         <section class="row 100% uniform">
             <div class="6u 12u$(small)">
                 <img style="width:100%" src="{{ 'assets/images/haynes-effects--positional-boost--pb-1--top.jpg' | relative_url }}">
@@ -24,6 +24,8 @@ show_tile: false
             </div>
         </section>
     </div>
+</div>
+<div id="main" class="alt">
     <div class="inner">
         <section class="row 100% uniform">
             <div class="12u 12u$(small)">
@@ -47,6 +49,8 @@ show_tile: false
             </div>
         </section>
     </div>
+</div>
+<div id="main">
     <div class="inner">
         <section class="row 100% uniform">
             <div class="12u 12u$(small)">
