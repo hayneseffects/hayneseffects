@@ -21,8 +21,6 @@ show_tile: false
                 </ul>
             </div>
         </section>
-    </div>
-    <div class="inner">
         <section class="row 100% uniform">
             <div class="12u 12u$(small)">
                 <h2>Demo Video</h2>
@@ -32,8 +30,6 @@ show_tile: false
                 </div>
             </div>
         </section>
-    </div>
-    <div class="inner">
         <section class="row 100% uniform">
             <div class="6u 12u$(small)">
                 <h2>The Loop Switch</h2>
