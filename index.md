@@ -14,7 +14,7 @@ show_tile: false
             </div>
             <div class="6u 12u$(small)">
                 <h1 style="margin-bottom:0px;">Positional Boost</h1>
-                <h3>by Haynes Effects</h3>
+                <h3>NEW FOR 2020</h3>
                 <p>I build versatile pedals designed for guitarists like me, who need to get big tones from a meager travel rig. I hand-build each pedal from my workshop in the South of England.</p>
                 <ul class="actions">
                     <li><a href="https://reverb.com/uk/shop/johns-gear-depot-2277" class="button special" style="background: #f6870f"><i class="fa fa-shopping-cart" aria-hidden="true"></i>&nbsp;&nbsp;Order via Reverb</a></li>
