@@ -6,7 +6,7 @@ author: null
 show_tile: false
 ---
 
-<div id="main">
+<div id="main" class="alt">
     <div class="inner" style="padding-top:2em;">
         <section class="row 100% uniform">
             <div class="6u 12u$(small)">
@@ -25,7 +25,7 @@ show_tile: false
         </section>
     </div>
 </div>
-<div id="main" class="alt">
+<div id="main">
     <div class="inner">
         <section class="row 100% uniform">
             <div class="12u 12u$(small)">
@@ -50,7 +50,7 @@ show_tile: false
         </section>
     </div>
 </div>
-<div id="main">
+<div id="main" class="alt">
     <div class="inner">
         <section class="row 100% uniform">
             <div class="12u 12u$(small)">
