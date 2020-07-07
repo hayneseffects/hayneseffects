@@ -35,9 +35,6 @@ show_tile: false
     </div>
     <div class="inner">
         <section class="row 100% uniform">
-            <div class="12u 12u$(small)" style="background:#000a12;">
-                PEDAL IMAGE
-            </div>
             <div class="6u 12u$(small)">
                 <h3>The Boost</h3>
                 <p>The MOSFET boost circuit is loosely based on the ZVEX Super Hard On, an ultra-transparent boost that goes from clean to crunch in just a crackle. An LED indicates whether the boost is engaged.</p>
@@ -45,6 +42,9 @@ show_tile: false
             <div class="6u 12u$(small)">
                 <h3>The Switch & The Loop</h3>
                 <p>The flipper switch enables you to choose where the boost is positioned, before or after any pedals you place in the loop. The position of the boost is indicated by a pair of LEDs.</p>
+            </div>
+            <div class="12u 12u$(small)" style="background:#000a12;">
+                PEDAL IMAGE
             </div>
             <!-- {% include tiles.html %} -->
         </section>
