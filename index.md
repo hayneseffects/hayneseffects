@@ -10,10 +10,10 @@ show_tile: false
 <div id="main" class="alt">
     <div class="inner" style="padding-top:2em;">
         <section class="row uniform" style="display:flex; align-items:center;">
-            <div class="6u 12u$(small)">
+            <div class="6u 12u$(medium)">
                 <img style="width:100%" src="{{ 'assets/images/haynes-effects--positional-boost--pb-1--top.jpg' | relative_url }}">
             </div>
-            <div class="6u 12u$(small)">
+            <div class="6u 12u$(medium)">
                 <h1>Positional Boost</h1>
                 <h2 style="margin-bottom:0;">69.00 GBP</h2>
                 <h5>Free Shipping to UK and Europe</h5>
