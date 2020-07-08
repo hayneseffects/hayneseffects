@@ -51,6 +51,12 @@ show_tile: false
                 <p style="text-align: right;">The flipper switch enables you to choose where the boost is positioned, before or after any pedals you place in the built-in effects loop. The position of the boost is indicated by a pair of LEDs.</p>
             </div>
         </section>
+        <section class="row uniform" style="display:flex; align-items:center; justify-content:center; margin-top: 2em;">
+            <div class="8u 12u$(small)">
+                <h3>Power</h3>
+                <p>The pedal is powered by a 9v, center-negative DC input. Power supply not included.</p>
+            </div>
+        </section>
     </div>
 </div>
 
