@@ -15,7 +15,7 @@ show_tile: false
             </div>
             <div class="6u 12u$(small)">
                 <h1>Positional Boost</h1>
-                <h2 style="margin-bottom:0;">69.00 GBP</h2>
+                <h2 style="margin-bottom:0;">89.00 GBP</h2>
                 <h5>Free Shipping to UK and Europe</h5>
                 <p style="margin-top:2em;">The most versatile boost circuit on the market. The Positional Boost was designed for guitarists that want to get the most from their pedal board, by changing which pedals are boosted with the tap of a footswitch.</p>
                 <h5 style="padding-top:1em;">Limited edition Gold Sparkle - 3 remaining</h5>
